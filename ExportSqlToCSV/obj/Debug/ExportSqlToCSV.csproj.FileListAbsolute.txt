@@ -1,0 +1,11 @@
+C:\Users\TQTr\Desktop\ExportSqlToCSV\ExportSqlToCSV\bin\Debug\ExportSqlToCSV.exe.config
+C:\Users\TQTr\Desktop\ExportSqlToCSV\ExportSqlToCSV\bin\Debug\ExportSqlToCSV.exe
+C:\Users\TQTr\Desktop\ExportSqlToCSV\ExportSqlToCSV\bin\Debug\ExportSqlToCSV.pdb
+C:\Users\TQTr\Desktop\ExportSqlToCSV\ExportSqlToCSV\obj\Debug\ExportSqlToCSV.csproj.AssemblyReference.cache
+C:\Users\TQTr\Desktop\ExportSqlToCSV\ExportSqlToCSV\obj\Debug\ExportSqlToCSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\TQTr\Desktop\ExportSqlToCSV\ExportSqlToCSV\obj\Debug\ExportSqlToCSV.Form1.resources
+C:\Users\TQTr\Desktop\ExportSqlToCSV\ExportSqlToCSV\obj\Debug\ExportSqlToCSV.Properties.Resources.resources
+C:\Users\TQTr\Desktop\ExportSqlToCSV\ExportSqlToCSV\obj\Debug\ExportSqlToCSV.csproj.GenerateResource.cache
+C:\Users\TQTr\Desktop\ExportSqlToCSV\ExportSqlToCSV\obj\Debug\ExportSqlToCSV.csproj.CoreCompileInputs.cache
+C:\Users\TQTr\Desktop\ExportSqlToCSV\ExportSqlToCSV\obj\Debug\ExportSqlToCSV.exe
+C:\Users\TQTr\Desktop\ExportSqlToCSV\ExportSqlToCSV\obj\Debug\ExportSqlToCSV.pdb
